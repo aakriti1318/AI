@@ -64,7 +64,3 @@ If you wish to contribute:
 * Add logging, evaluation harness, or benchmarking
 * Build a web UI / frontend for easier use
 
-## References & Credits
-
-* LiteLLM — open-source LLM gateway / proxy, enabling unified API access to 100+ LLM providers. ([litellm.ai][1])
-* LLM Council — multi-model consensus framework where multiple LLMs answer, peer-review, and synthesize a final answer. ([GitHub][2])

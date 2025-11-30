@@ -68,7 +68,3 @@ If you wish to contribute:
 
 * LiteLLM — open-source LLM gateway / proxy, enabling unified API access to 100+ LLM providers. ([litellm.ai][1])
 * LLM Council — multi-model consensus framework where multiple LLMs answer, peer-review, and synthesize a final answer. ([GitHub][2])
-
-## License
-
-Add your license here (e.g. MIT, Apache-2.0, etc.).
